@@ -92,9 +92,9 @@ en: &DEFAULT_EN
         # icon: fab fa-markdown
 
   portfolio:
-    title: "Publications"
+    title: "Researches"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: researches
     closebutton: "Close Project"
 
   timeline:

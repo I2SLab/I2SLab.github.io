@@ -12,11 +12,12 @@
 en: &DEFAULT_EN
   nav:
     - title: "Members"
-      section: services
+      url: /members.html
+      # section: about
     - title: "Research"
       section: research
     - title: "Publications"
-      section: portfolio
+      section: publications
     - title: "Projects"
       section: timeline
     # - title: "Team"

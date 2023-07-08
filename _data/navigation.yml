@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Members"
-      url: /i2slab-website/members.html
+      url: /members.html
       # section: about
     - title: "Research"
       section: research

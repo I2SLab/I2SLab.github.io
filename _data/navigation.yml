@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Members"
-      url: /members
+      url: /members.html
       # section: about
     - title: "Research"
       section: research
